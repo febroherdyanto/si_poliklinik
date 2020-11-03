@@ -1,5 +1,15 @@
-## Febro Herdyanto
-## Sistem Informasi Poliklinik
+Webiste Ini dibuat untuk memenuhi persyaratan Kelulusan SMK pada Tahun 2016.
+Yaitu Ujian Praktek Kejuruan RPL (Rekayasa Perangkat Lunak).
 
-Portofolio : Website Sistem Informasi Poliklinik Tugas Ujian Kompetensi Keahlian SMK Negeri 1 Mejayan, Kab Madiun Tahun 2016 
-Dewan Penguji : BLC Telkom - KPLI Klaten , Jawa Tengah
+
+Webiste ini masih menggunakan Koneksi Database MySQL. Jadi jika ingin membuka web ini menggunakan PHP versi 5.5 kebawah..
+
+File Koneksi Database :
+     * config/koneksi.php
+Database :
+     * ukk.sql
+Login Admin :
+     * Username = a
+     * Password = a
+
+Terima Kasih.. Febro Herdyanto..
